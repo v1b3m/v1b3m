@@ -13,4 +13,4 @@ Also, I am focusing on coding(This is just one in a million paths you can take a
 I've just redone my [data structures and algorithms project](https://bit.ly/33woAQZ) from my first year at University and you're  
 welcome to collaborate, we could build something interesting together.
 
-![v1b3m's Github Stats](https://github-readme-stats.vercel.app/api?username=v1b3m&show_icons=true)
+![v1b3m's Github Stats](https://github-readme-stats.vercel.app/api?username=v1b3m&show_icons=true&theme=dark&count_private=true)
