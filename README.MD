@@ -10,6 +10,6 @@ Also, I am focusing on coding, I love code, I breath code, I've not dreamed abou
 
 ### Interesting project
 
-You can check out my personal site at https://bit.ly/3p0GEAk. I hope you like it.
+You can check out my personal site at https://benjaminmayanja.dev I hope you like it.
 
 ![v1b3m's Github Stats](https://github-readme-stats.vercel.app/api?username=v1b3m&show_icons=true&theme=dark&count_private=true)
